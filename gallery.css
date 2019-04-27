@@ -1,0 +1,260 @@
+body {
+	background: white;
+	font-family: Century Gothic;
+	text-align: center;
+}
+.menu  {
+    overflow: hidden;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	border-bottom: .5px #000 solid;
+	background:#633C00;
+
+}
+.jack{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.coke{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.jojo{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.menu a {
+    float: left;
+    color: #FFF1B5;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.img{
+	background:#633C00;
+	color:#FFF1B5;
+	font-family:Brush Script MT;
+	font-size:40px;
+}
+.menu a:hover {
+    color: gray;
+}
+.haheha {
+	background: url("../images/plate.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 100px;
+	text-align: left;
+	color:#FFF1B5;
+}
+
+.hehahe { 
+	margin-left: 20px
+}	
+.haheha h1{
+	font-size: 40px;
+	font-family:Brush Script MT;
+}
+.haheha p{
+	font-size: 20px;
+}
+
+.top {
+	font-size: 150px;
+	text-align: left;
+	background: #4C3F09;
+	color:#FFF1B5;
+	font-family:Brush Script MT;
+}
+.top p{
+	font-size:50px;
+	font-family:Brush Script MT;
+}
+
+.hello {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr;
+	color:#FFF1B5;
+	background:#F8AE3B;
+}
+.lala {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.kaka {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.jaja {
+	display: grid;
+	grid-template-columns: 1fr 1fr;	
+}
+.fave {
+	font-size: 30px;
+	text-align: left;
+	background: #4C3F09;
+	font-family:Brush Script MT;
+	color:#FFF1B5;
+	font-size:50px;
+}
+.favo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background:#F8AE3B;
+	color:#FFF1B5;
+}
+.favo h4{
+	color:#DAD6CB;
+}
+
+
+.aaaa {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+.eeee {
+	margin-top: 0px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+.tete{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.wewe{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.rere{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.nene{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.oooo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.uuuu {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.bloom p{
+	font-size: 50px;
+	text-align:left;
+}
+.run {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr
+}
+
+.takbo {
+	background: url(../images/dess.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 300px;
+}
+.oo{
+	background:#4C3F09;
+	color:#FFF1B5;
+	font-family:Brush Script MT;
+}
+
+.ffff {
+
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.cccc {
+
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.run{
+	background:#F8AE3B;
+}
+.rrrr {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.mmmm {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.pppp {
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.xxxx {
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.vvvv{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.kkkk{
+	background-image:linear-gradient(to right,#BC6504,#F8C740,#BC6504);
+}
+.paa {
+	border-top: .5px #000 solid;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 1.7;
+}
+.fa-facebook {
+    background: white;
+    color: black;
+}
+.facebook{
+
+	text-decoration:none;
+	color:white;
+}
+
+.fa-twitter {
+    background: white;
+    color: black;
+}
+.fa-youtube {
+    background: white;
+    color: black;
+}
+.fa-instagram {
+    background: white;
+    color: black;
+}
+.paa2 {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.last {
+	background:#633C00;
+	padding: 5px;
+	color:#FFF1B5;
+}
+.last a{
+	color: black;
+	text-decoration: none;
+}
+.last a:hover {
+	color: gray;
+}
